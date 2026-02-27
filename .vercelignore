@@ -1,0 +1,4 @@
+# Ensure unsupported Next.js TS config files are never uploaded for builds.
+next.config.ts
+next.config.mts
+next.config.cts
